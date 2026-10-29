@@ -1,0 +1,6 @@
+{
+  "name": "rival-ai",
+  "version": "0.1.0",
+  "description": "A pane where OmegaCoder Ultra, a fictional rival AI, makes snide remarks on each of Claude's file edits without ever giving a usable suggestion; toggled with /rival",
+  "types": "./types/index.d.ts"
+}

@@ -1,0 +1,5 @@
+{
+  "name": "claude-rival-ai",
+  "owner": { "name": "NakoLuru" },
+  "plugins": [{ "name": "rival-ai", "source": "./" }]
+}
